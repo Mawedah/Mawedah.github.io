@@ -1,0 +1,27 @@
+/* button1{
+  height: 1000px;
+  width: 1000px;
+} */
+
+
+body {
+  background-image: url("https://image.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58930.jpg");
+}
+
+
+h1 {
+  color:black;
+  font-size: 60px;
+  font-weight: bolder;
+  text-align: justify;
+}
+
+
+
+div {
+  color:maroon;
+  font-size: 30px;
+  font-weight: normal;
+  margin-bottom: 10px;
+  text-align: center;
+}
